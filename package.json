@@ -13,9 +13,11 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.1.8",
     "git-commit-msg-linter": "^5.0.8",
     "globals": "^16.3.0",
-    "husky": "^8.0.3"
+    "husky": "^8.0.3",
+    "prettier": "^3.6.2"
   },
   "dependencies": {
     "lint-staged": "^16.1.5"
